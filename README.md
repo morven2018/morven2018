@@ -12,6 +12,8 @@ With a strong analytical background from mathematics and hands-on experience in 
 - 💻 **Hands-on Technical Experience** - Developed client websites on Tilda/WordPress. Expertly typeset academic documentation using LaTeX.
 - 🚀 **Building expertise in React + TypeScript** - creating type-safe frontend applications
 
+________________
+
 ### ⚡ My Tech Toolkit
 
 **Frontend Development:**
@@ -33,6 +35,8 @@ With a strong analytical background from mathematics and hands-on experience in 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
+________________
 
 
 ### 🚀 Featured Projects
@@ -59,7 +63,9 @@ With a strong analytical background from mathematics and hands-on experience in 
 
 ![Project Screenshot](./images/ecommerce-screenshot.png)
 
-#№## Rest Client App | React, TypeScript, Vite
+________________
+
+#### Rest Client App | React, TypeScript, Vite
 
 [Deploy](https://react-2025-q3-rest-client.netlify.app/en)
 [GitHub](https://github.com/morven2018/rest-client-app)
