@@ -38,12 +38,13 @@ With a strong analytical background from mathematics and hands-on experience in 
 ### 🚀 Featured Projects
 
 #### **E-Commerce Platform** | React, TypeScript, Firebase
+
+[![Deploy](https://dyson-ecommerce.netlify.app/)
+[![GitHub](https://github.com/morven2018/eCommerce-dyson)
+
  <img width="200" alt="dyson-ecommerce main page" src="https://github.com/user-attachments/assets/b30577f0-a8a1-44d7-afb6-c2c0b1c9742d" />
-<br/>
  <img width="200" alt="dyson-ecommerce netlify register page" src="https://github.com/user-attachments/assets/2112232e-6e5d-4a2c-a525-e0d7190e740c" />
-<br/>
 <img width="200"  alt="dyson-ecommerce netlify cart" src="https://github.com/user-attachments/assets/3d1d78bc-66fd-40e3-b1e8-c6c792282695" />
-<br/>
 <img width="200" alt="dyson-ecommerce netlify catalog" src="https://github.com/user-attachments/assets/a1c8f0fc-8f44-4798-9b47-28c877942ed9" />
 
 
@@ -54,6 +55,6 @@ With a strong analytical background from mathematics and hands-on experience in 
 - 🔐 User authentication & authorization
 - 💳 Catalog with categories and search
 
-**Tech Stack:** React, TypeScript
+**Tech Stack:** React, TypeScript, Vite, Vitest, MUI
 
 ![Project Screenshot](./images/ecommerce-screenshot.png)
