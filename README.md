@@ -1,5 +1,9 @@
-## Hi there 👋
+## 👋 Hello, I'm Alena!
 
+
+### **Frontend Developer | Math & CS Graduate***
+
+With a strong analytical background from mathematics and hands-on experience in project management, I now focus on building practical web applications with clean, maintainable code.
 <!--
 **morven2018/morven2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
