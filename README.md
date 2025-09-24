@@ -38,7 +38,7 @@ With a strong analytical background from mathematics and hands-on experience in 
 ### 🚀 Featured Projects
 
 #### **E-Commerce Platform** | React, TypeScript, Firebase
-<img width="1471" height="4617" alt="dyson-ecommerce netlify app_" src="https://github.com/user-attachments/assets/b30577f0-a8a1-44d7-afb6-c2c0b1c9742d" />
+<img width="400" alt="dyson-ecommerce main page" src="https://github.com/user-attachments/assets/b30577f0-a8a1-44d7-afb6-c2c0b1c9742d" />
 
 
 
