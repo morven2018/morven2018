@@ -37,10 +37,10 @@ With a strong analytical background from mathematics and hands-on experience in 
 
 ### 🚀 Featured Projects
 
-#### **E-Commerce Platform** | React, TypeScript, Firebase
+#### **E-Commerce Platform** | React, TypeScript
 
-[![Deploy](https://dyson-ecommerce.netlify.app/)
-[![GitHub](https://github.com/morven2018/eCommerce-dyson)
+[Deploy](https://dyson-ecommerce.netlify.app/)
+[GitHub](https://github.com/morven2018/eCommerce-dyson)
 
  <img width="200" alt="dyson-ecommerce main page" src="https://github.com/user-attachments/assets/b30577f0-a8a1-44d7-afb6-c2c0b1c9742d" />
  <img width="200" alt="dyson-ecommerce netlify register page" src="https://github.com/user-attachments/assets/2112232e-6e5d-4a2c-a525-e0d7190e740c" />
@@ -53,8 +53,30 @@ With a strong analytical background from mathematics and hands-on experience in 
 **Key Features:**
 - 🛒 Shopping cart with persistent storage and disconts
 - 🔐 User authentication & authorization
-- 💳 Catalog with categories and search
+- 📋 Catalog with categories and search
 
 **Tech Stack:** React, TypeScript, Vite, Vitest, MUI
 
 ![Project Screenshot](./images/ecommerce-screenshot.png)
+
+#№## Rest Client App | React, TypeScript, Vite
+
+[Deploy](https://react-2025-q3-rest-client.netlify.app/en)
+[GitHub](https://github.com/morven2018/rest-client-app)
+
+
+🌐 Advanced REST API client for testing and debugging HTTP requests with beautiful UI and comprehensive features.
+
+**Key Features:**
+
+- 🔄 Multiple HTTP Methods (GET, POST, PUT, DELETE, PATCH, OPTIONS)
+- 🌐 Environment Variables with dynamic value injection
+- 🔐 Firebase Authentication (Google, Email/Password/Name/Avatar)
+- 💾 Persistent Request History per user account
+- 📝 Request Body Editor
+- 🔗 Headers Management 
+- 📊 Request Code Generator
+- 🎨 Theme System (Dark/Light) 
+- ⚡ Real-time Validation and error handling
+
+**Tech Stack:** Next.js, React, TypeScript, shadcn/ui, Zod, Jest, Firebase
