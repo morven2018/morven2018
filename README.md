@@ -34,3 +34,21 @@ With a strong analytical background from mathematics and hands-on experience in 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
+
+### 🚀 Featured Projects
+
+#### **E-Commerce Platform** | React, TypeScript, Firebase
+<img width="1471" height="4617" alt="dyson-ecommerce netlify app_" src="https://github.com/user-attachments/assets/b30577f0-a8a1-44d7-afb6-c2c0b1c9742d" />
+
+
+
+📱 **Modern e-commerce solution** with real-time inventory management and secure payments.
+
+**Key Features:**
+- 🛒 Shopping cart with persistent storage and disconts
+- 🔐 User authentication & authorization
+- 💳 Catalog with categories and search
+
+**Tech Stack:** React, TypeScript
+
+![Project Screenshot](./images/ecommerce-screenshot.png)
