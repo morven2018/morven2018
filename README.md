@@ -86,6 +86,7 @@ ________________
 - ⚡ Real-time Validation and error handling
 
 **Tech Stack:** Next.js, React, TypeScript, shadcn/ui, Zod, Jest, Firebase
+
 <img width="200" alt="Rest Client" src="https://github.com/user-attachments/assets/cd75140d-cddf-4958-ab54-82eb2c84ce0f" />
 <img  width="200" alt="Variables" src="https://github.com/user-attachments/assets/ba60ee5c-4768-4ffd-8848-0cbe911c4d64" />
 <img width="200"  alt="History" src="https://github.com/user-attachments/assets/b11d6c3a-9146-4790-a2d6-ae9557d40b70" />
