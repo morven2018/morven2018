@@ -61,12 +61,6 @@ ________________
 
 **Tech Stack:** React, TypeScript, Vite, Vitest, MUI
 
-
- <img width="200" alt="dyson-ecommerce main page" src="https://github.com/user-attachments/assets/b30577f0-a8a1-44d7-afb6-c2c0b1c9742d" />
- <img width="200" alt="dyson-ecommerce netlify register page" src="https://github.com/user-attachments/assets/2112232e-6e5d-4a2c-a525-e0d7190e740c" />
-<img width="200"  alt="dyson-ecommerce netlify cart" src="https://github.com/user-attachments/assets/3d1d78bc-66fd-40e3-b1e8-c6c792282695" />
-<img width="200" alt="dyson-ecommerce netlify catalog" src="https://github.com/user-attachments/assets/a1c8f0fc-8f44-4798-9b47-28c877942ed9" />
-
 ________________
 
 #### REST Client App | React, TypeScript, Next, shadcn/ui
@@ -89,12 +83,6 @@ ________________
 - ⚡ Real-time Validation and error handling
 
 **Tech Stack:** Next.js, React, TypeScript, shadcn/ui, Zod, Jest, Firebase
-
-<img width="200" alt="Rest Client" src="https://github.com/user-attachments/assets/cd75140d-cddf-4958-ab54-82eb2c84ce0f" />
-<img  width="200" alt="Variables" src="https://github.com/user-attachments/assets/ba60ee5c-4768-4ffd-8848-0cbe911c4d64" />
-<img width="200"  alt="History" src="https://github.com/user-attachments/assets/b11d6c3a-9146-4790-a2d6-ae9557d40b70" />
-<img  width="200" alt="Another lang and adrk theme" src="https://github.com/user-attachments/assets/261095c5-2767-4fb7-beff-3b1f3eb330a4" />
-<img width="200" alt="Register Form" src="https://github.com/user-attachments/assets/9b4f314d-03db-4c92-b38d-af17ff04869b" />
 
 
 ### 📊 GitHub Stats
