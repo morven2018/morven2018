@@ -5,6 +5,9 @@
 
 With a strong analytical background from mathematics and hands-on experience in project management, I now focus on building practical web applications with clean, maintainable code.
 
+### 📫 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlenaPudina)
+
 ### My Development Journey
 
 - 🎓 **Applied Mathematics & Computer Science** graduate with strong analytical background
@@ -45,8 +48,9 @@ ________________
 
 #### **E-Commerce Platform** | React, TypeScript
 
-[Deploy](https://dyson-ecommerce.netlify.app/)
-[GitHub](https://github.com/morven2018/eCommerce-dyson)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge)](https://dyson-ecommerce.netlify.app/)
+[![GitHub](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/morven2018/eCommerce-dyson)
+
 
 📱 **Modern e-commerce solution** with real-time inventory management and secure payments.
 
@@ -65,11 +69,10 @@ ________________
 
 ________________
 
-#### Rest Client App | React, TypeScript, Vite
+#### REST Client App | React, TypeScript, Next, shadcn/ui
 
-[Deploy](https://react-2025-q3-rest-client.netlify.app/en)
-[GitHub](https://github.com/morven2018/rest-client-app)
-
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge)](https://react-2025-q3-rest-client.netlify.app/en)
+[![GitHub](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/morven2018/rest-client-app)
 
 🌐 Advanced REST API client for testing and debugging HTTP requests with beautiful UI and comprehensive features.
 
@@ -92,3 +95,15 @@ ________________
 <img width="200"  alt="History" src="https://github.com/user-attachments/assets/b11d6c3a-9146-4790-a2d6-ae9557d40b70" />
 <img  width="200" alt="Another lang and adrk theme" src="https://github.com/user-attachments/assets/261095c5-2767-4fb7-beff-3b1f3eb330a4" />
 <img width="200" alt="Register Form" src="https://github.com/user-attachments/assets/9b4f314d-03db-4c92-b38d-af17ff04869b" />
+
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morven2018&show_icons=true&theme=gotham&hide_title=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morven2018&layout=compact&theme=gotham&hide=html" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morven2018&theme=gotham&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+</div>
