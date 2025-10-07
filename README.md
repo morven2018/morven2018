@@ -48,7 +48,7 @@ ________________
 
 #### **E-Commerce Platform** | React, TypeScript
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge)](https://dyson-ecommerce.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge)](https://e-commerce-dyson.netlify.app/)
 [![GitHub](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/morven2018/eCommerce-dyson)
 
 
